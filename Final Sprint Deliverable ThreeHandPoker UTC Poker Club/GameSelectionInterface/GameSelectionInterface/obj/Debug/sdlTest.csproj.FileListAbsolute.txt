@@ -1,0 +1,12 @@
+C:\Users\zeybe_000\Documents\SharpDevelop Projects\sdlTest\sdlTest\obj\Debug\sdlTest.csprojResolveAssemblyReference.cache
+C:\Users\zeybe_000\Documents\SharpDevelop Projects\sdlTest\sdlTest\bin\Debug\sdlTest.exe.config
+C:\Users\zeybe_000\Documents\SharpDevelop Projects\sdlTest\sdlTest\bin\Debug\sdlTest.exe
+C:\Users\zeybe_000\Documents\SharpDevelop Projects\sdlTest\sdlTest\bin\Debug\sdlTest.pdb
+C:\Users\zeybe_000\Documents\SharpDevelop Projects\sdlTest\sdlTest\obj\Debug\sdlTest.exe
+C:\Users\zeybe_000\Documents\SharpDevelop Projects\sdlTest\sdlTest\obj\Debug\sdlTest.pdb
+C:\Users\zeybe_000\Google Drive\F17 Software engineering\GameSelectionInterface\sdlTest\bin\Debug\sdlTest.exe.config
+C:\Users\zeybe_000\Google Drive\F17 Software engineering\GameSelectionInterface\sdlTest\bin\Debug\sdlTest.exe
+C:\Users\zeybe_000\Google Drive\F17 Software engineering\GameSelectionInterface\sdlTest\bin\Debug\sdlTest.pdb
+C:\Users\zeybe_000\Google Drive\F17 Software engineering\GameSelectionInterface\sdlTest\obj\Debug\sdlTest.csprojResolveAssemblyReference.cache
+C:\Users\zeybe_000\Google Drive\F17 Software engineering\GameSelectionInterface\sdlTest\obj\Debug\sdlTest.exe
+C:\Users\zeybe_000\Google Drive\F17 Software engineering\GameSelectionInterface\sdlTest\obj\Debug\sdlTest.pdb

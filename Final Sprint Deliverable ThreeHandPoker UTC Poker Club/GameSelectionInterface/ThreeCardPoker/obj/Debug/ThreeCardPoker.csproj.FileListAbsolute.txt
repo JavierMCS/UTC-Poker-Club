@@ -1,0 +1,5 @@
+C:\Users\Richard\Google Drive\F17 Software engineering\GameSelectionInterface\ThreeCardPoker\bin\Debug\ThreeCardPoker.dll
+C:\Users\Richard\Google Drive\F17 Software engineering\GameSelectionInterface\ThreeCardPoker\bin\Debug\ThreeCardPoker.pdb
+C:\Users\Richard\Google Drive\F17 Software engineering\GameSelectionInterface\ThreeCardPoker\obj\Debug\ThreeCardPoker.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Google Drive\F17 Software engineering\GameSelectionInterface\ThreeCardPoker\obj\Debug\ThreeCardPoker.dll
+C:\Users\Richard\Google Drive\F17 Software engineering\GameSelectionInterface\ThreeCardPoker\obj\Debug\ThreeCardPoker.pdb

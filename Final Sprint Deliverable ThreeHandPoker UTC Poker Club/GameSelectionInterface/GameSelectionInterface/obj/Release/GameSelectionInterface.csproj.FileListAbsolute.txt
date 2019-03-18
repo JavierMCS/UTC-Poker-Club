@@ -1,0 +1,5 @@
+C:\Users\Richard\Google Drive\F17 Software engineering\GameSelectionInterface\GameSelectionInterface\bin\Release\GameSelectionInterface.exe.config
+C:\Users\Richard\Google Drive\F17 Software engineering\GameSelectionInterface\GameSelectionInterface\bin\Release\GameSelectionInterface.exe
+C:\Users\Richard\Google Drive\F17 Software engineering\GameSelectionInterface\GameSelectionInterface\bin\Release\ThreeCardPoker.dll
+C:\Users\Richard\Google Drive\F17 Software engineering\GameSelectionInterface\GameSelectionInterface\obj\Release\GameSelectionInterface.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Google Drive\F17 Software engineering\GameSelectionInterface\GameSelectionInterface\obj\Release\GameSelectionInterface.exe

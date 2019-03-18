@@ -1,0 +1,3 @@
+C:\Users\Richard\Google Drive\F17 Software engineering\GameSelectionInterface\ThreeCardPoker\bin\Release\ThreeCardPoker.dll
+C:\Users\Richard\Google Drive\F17 Software engineering\GameSelectionInterface\ThreeCardPoker\obj\Release\ThreeCardPoker.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Google Drive\F17 Software engineering\GameSelectionInterface\ThreeCardPoker\obj\Release\ThreeCardPoker.dll
